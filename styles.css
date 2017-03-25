@@ -1,0 +1,25 @@
+body {
+		background-color: white;
+	}
+	table, td, th {    
+	    border: 1px solid white;
+	    text-align: left;
+	}
+
+	table {
+	    border-collapse: collapse;
+	    width: 100%;
+	}
+
+	th, td {
+	    padding: 15px;
+	}
+	th {
+		color:#ff9700;
+	}
+	td {
+		color: black;
+	}
+	.search {
+		float: right;
+	}
